@@ -1,6 +1,7 @@
 # Wikipedia Knowledge Graph RAG System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![LangChain](https://img.shields.io/badge/🦜_LangChain-0.3.7-000000)](https://python.langchain.com/)
 [![Neo4j](https://img.shields.io/badge/Neo4j-Latest-008CC1?logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?logo=openai&logoColor=white)](https://openai.com/)
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-API-000000?logo=wikipedia&logoColor=white)](https://www.wikipedia.org/)
@@ -17,6 +18,7 @@ An intelligent question-answering system powered by knowledge graphs, combining 
 ## Prerequisites
 
 - Python 3.8+
+- LangChain 0.3.7
 - Neo4j Database
 - OpenAI API access
 
